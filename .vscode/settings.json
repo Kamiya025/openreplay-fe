@@ -1,0 +1,6 @@
+{
+    "i18n-ally.localesPaths": [
+        "app/locales",
+        "app/player/web/messages"
+    ]
+}
